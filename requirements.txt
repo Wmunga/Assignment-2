@@ -1,0 +1,5 @@
+# No external dependencies required for the basic implementation
+# Future versions might include:
+# requests>=2.31.0  # For API integration
+# nltk>=3.8.1      # For NLP features
+# pandas>=2.1.0    # For data analysis 
