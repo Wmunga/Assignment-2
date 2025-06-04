@@ -1,5 +1,63 @@
-# No external dependencies required for the basic implementation
-# Future versions might include:
-# requests>=2.31.0  # For API integration
-# nltk>=3.8.1      # For NLP features
-# pandas>=2.1.0    # For data analysis 
+# Data processing and analysis
+numpy>=1.26.4
+pandas>=1.3.0
+scipy>=1.15.3
+
+# Machine learning
+scikit-learn>=1.6.1
+xgboost>=3.0.2
+lightgbm>=4.6.0
+
+# Data visualization
+matplotlib>=3.4.2
+seaborn>=0.11.1
+plotly>=5.1.0
+
+# Jupyter notebooks
+jupyter>=1.0.0
+notebook>=6.4.0
+
+# Testing
+pytest>=6.2.5
+pytest-cov>=2.12.1
+
+# Code quality
+black>=21.5b2
+flake8>=3.9.2
+isort>=5.9.1
+
+# Documentation
+sphinx>=4.0.2
+sphinx-rtd-theme>=0.5.2
+
+# API and web interface (future use)
+fastapi>=0.68.0
+uvicorn>=0.15.0
+requests>=2.26.0
+
+# Environment variables
+python-dotenv>=0.19.0
+
+# Deep Learning and NLP
+torch>=2.0.0
+transformers>=4.30.0
+sentence-transformers>=2.2.2
+datasets>=2.12.0
+tokenizers>=0.13.3
+
+# Cryptocurrency specific
+ccxt>=4.0.0
+python-binance>=1.0.17
+cryptocompare>=0.7.0
+
+# Vector database for semantic search
+faiss-cpu>=1.7.4
+
+# Model serving and monitoring
+mlflow>=2.8.0
+prometheus-client>=0.17.0
+
+# Additional utilities
+tqdm>=4.65.0
+python-dateutil>=2.8.2
+pytz>=2023.3 
